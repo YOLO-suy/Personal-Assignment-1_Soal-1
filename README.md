@@ -8,8 +8,6 @@ File kode dapat dilihat pada `Main.java`.
 
 ## Hasil Eksekusi (Output)
 
-C:\Users\loq\.jdks\openjdk-25.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2025.3.3\lib\idea_rt.jar=54375" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "H:\My Drive\Kuliah BiNUS\Semester 2\Even Semester, Periode 2\Data Structures and Algorithm Analysis (COSC6025036)\Code Exercise\Topic 1 Introduce Java\inheritance\untitled\out\production\untitled" Main
-
 ==== DATA MAHASISWA ====
 
 Nama    : Andi Pratama
