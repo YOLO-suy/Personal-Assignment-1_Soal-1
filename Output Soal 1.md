@@ -2,6 +2,7 @@
 Matkul Data Structures and Algorithm Analysis (COSC6025036) 
 
 # Bukti Jalannya Program Java
+Soal 1: Pembuatan Class dan Object 
 
 ## Kode Program
 File kode dapat dilihat pada `Main.java`.
